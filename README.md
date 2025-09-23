@@ -1,1 +1,1 @@
-##Prácticas de Cómputo Paralelo de sexto semestre IA ESCOM
+## Prácticas de Cómputo Paralelo de sexto semestre IA ESCOM
